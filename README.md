@@ -10,8 +10,7 @@
     <br>
         <a href="https://t.me/slbotzone"><img src="https://telegra.ph/file/c55a2929ac85d333893a5.jpg"></a> |
        
-    <br>
-</p>
+  </p>
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@lasindu123/XTROID)
 
@@ -29,8 +28,6 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## Thanks To
 [![Yusuf Usta](https://github.com/Dinuraofficial.png?size=50)](https://t.me/Dinuranikalansuriya)  |
-----|----|
-
 
 # base bot
 https://github.com/yusufusta/WhatsAsena
