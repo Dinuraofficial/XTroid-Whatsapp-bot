@@ -29,7 +29,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 
 ## Developer
-[![Dinura](https://github.com/Dinuraofficial.png?size=50)](https://t.me/Dinuranikalansuriya) N.M.Dinura Uthsara 
+[![Dinura](https://github.com/Dinuraofficial.png?size=100)](https://t.me/Dinuranikalansuriya) N.M.Dinura Uthsara 
 [N.M.Dinura Uthsara Nikalansuriya](https://t.me/Dinuranikalansuriya)
 
 # base bot
