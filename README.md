@@ -8,7 +8,7 @@
 <p align="center">
     Project of X-Troid - Makes it easy and fun to use Whatsapp. Also second Sinhala userbot for Whatsapp.
     <br>
-        <a href="https://t.me/slbotzone"></a> |
+        <a href="https://t.me/slbotzone">Telegram group</a> |
         <a href="https://t.me/Dinuranikalansuriya">Telegram contact</a> 
     
   
